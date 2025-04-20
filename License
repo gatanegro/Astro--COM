@@ -1,4 +1,4 @@
-Copyright (C) 2024-2025  Martin Doina/ gatanegro
+Copyright (C) 2025  Martin Doina/ gatanegro
 
 This project (including equations, theories, prototypes, and software) is the intellectual property of Martin Doina / gatanegro. Unauthorized use, reproduction, or distribution of any part of this work is strictly prohibited without explicit permission.
 

@@ -2,6 +2,8 @@
 
 **Author:** Martin Doina
 
+DOI:10.5281/zenodo.16761216
+
 ## Abstract
 
 This paper presents a novel theoretical framework for understanding the observed lithium-7/hydrogen (Li/H) abundance ratio, departing from the conventional reliance on primordial nucleosynthesis. We introduce the concepts of recursion depth and HQS tax within a recursive field theory to explain the formation and observed abundances of lithium in stars. Our model posits that lithium-7 forms continuously in stars via recursive phase transitions at a critical recursion depth where the recursive field tension overcomes HQS damping. We demonstrate how the Li/H ratio is determined by the difference in recursion depth between hydrogen and lithium-7, and the cumulative effect of the HQS tax. Numerical examples are provided to illustrate how this framework can account for the observed Li/H ratios in both old (Spite plateau) and young stars, offering a predictive and potentially parameter-free explanation for a long-standing problem in astrophysics. This approach suggests that the Li/H ratio is not arbitrary but is fundamentally linked to the recursive structure of the universe.

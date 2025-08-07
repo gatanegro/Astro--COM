@@ -10,6 +10,8 @@ Predicting JWST Anomalies
 
 Proposed JWST Observing Programs
 
+https://github.com/gatanegro/Astro--COM/releases
+
 ## 📢 Join the Community!
 
 Discussion, questions, and collaboration for this project are hosted in our central community repo:  

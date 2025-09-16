@@ -6,6 +6,20 @@ This study expands the Collatz-Octave Model (COM) by incorporating the HQS (23.5
 
 Our analysis reveals that the Solar System's architecture emerges from a harmonic resonance pattern matching atomic energy scaling, with relativistic corrections accounting for residual deviations. The modified COM framework shows remarkable alignment with both Solar System and exoplanetary data, suggesting a universal oscillatory basis for celestial mechanics.
 
+# Logos_Astro_Xl_app - Advanced Planetary Predictor- Planetary Spacing
+
+A sophisticated graphical application built with Python and Tkinter that predicts potential planetary orbits in exoplanetary systems using a novel mathematical resonance model based on the LZ and HQS constants.
+
+## Features
+
+*   **Multi-System Analysis**: Pre-loaded with parameters for 14 known exoplanetary systems (Trappist-1, Solar System, Kepler-90, etc.) and a custom system builder.
+*   **Tunable Constants**: Test predictions against seven different progressively accurate sets of the LZ and HQS constants (`LZ_1` to `LZ_s`, `LZ`).
+*   **Custom Resonance Models**: Choose from five different mathematical functions (sin, tanh, exp, gaussian, lorentzian) to model orbital resonance.
+*   **Interactive Visualization**: Dynamically generated plots showing resonance strength, predicted vs. observed orbits, and constants comparison.
+*   **Comparative Analysis**: Run a batch analysis to compare the predictive power of all constant sets simultaneously.
+*   **Data Export**: Export all calculated resonance data to CSV, JSON, or Excel format for further analysis.
+*   **Fractal Analysis**: Includes a preliminary module for analyzing the fractal properties of the resonance patterns.
+
 Predicting JWST Anomalies
 
 Proposed JWST Observing Programs
